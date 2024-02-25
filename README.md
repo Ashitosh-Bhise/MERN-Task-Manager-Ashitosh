@@ -158,11 +158,6 @@ Inside backend folder:
 - `npm run dev`: Starts backend using nodemon.
 - `npm start`: Starts backend without nodemon.
 
-## Useful Links
-
-- This project
-
-  - Github Repo: https://github.com/aayush301/MERN-task-manager
 
 - Official Docs
 
